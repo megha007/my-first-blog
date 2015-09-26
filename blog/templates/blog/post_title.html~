@@ -3,5 +3,6 @@
 	<title>Meghoo's Blog</title>
 </head>
 <body>
+	{{ posts }}
 </body>
 </html>
